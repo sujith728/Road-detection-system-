@@ -12,7 +12,7 @@ Programming : Python
 ![lane](https://user-images.githubusercontent.com/28294942/137758174-63d7c31d-b9f9-4c95-8295-559cf0ab2593.jpeg)
 
 
-I have Updated Code for Indian Roads(Rural) Detection System. If you want then mail [vatshayan007@gmail.com] me 
+I have Updated Code for Indian Roads(Rural) Detection System. If you want then mail [imsujith0512@gmail.com] me 
 
 Note : Just download Code and run on your IDE 
 
@@ -24,9 +24,9 @@ If you need any help regarding College project contact me. #Free_Discussion
 
 ### Contact me:
 
-WhatsApp: +91 9310631437 (Helping 24*7)
+WhatsApp: +91 9363978441 (Helping 24*7)
 
-Gmail: vatshayan007@gmail.com
+Gmail: imsujith0512@gmail.com
 
  #Free_Discussion 
  
