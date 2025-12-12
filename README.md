@@ -16,22 +16,10 @@ I have Updated Code for Indian Roads(Rural) Detection System. If you want then m
 
 Note : Just download Code and run on your IDE 
 
-## Hi there, 
-
-If you need PPT, Research Paper, Project Code and Report of this Project Mail me.
-
-If you need any help regarding College project contact me. #Free_Discussion
-
 ### Contact me:
 
 WhatsApp: +91 9363978441 (Helping 24*7)
 
 Gmail: imsujith0512@gmail.com
-
- #Free_Discussion 
- 
- #open_source 
- 
- #free_explanation
  
 Thank you...
