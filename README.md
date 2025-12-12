@@ -34,5 +34,4 @@ Gmail: imsujith0512@gmail.com
  
  #free_explanation
  
-### Advance Road Pavement Project Youtube Video : https://www.youtube.com/watch?v=BEUFt6_UjYM
-# Road-detection-system-
+Thank you...
